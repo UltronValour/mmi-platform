@@ -194,12 +194,12 @@ function Home({ setPage }) {
 
                 {/* Headline */}
                 <h1 style={{
-                    fontSize: "clamp(2.4rem, 5vw, 4rem)", fontWeight: 800,
+                    fontSize: "clamp(2rem, 4vw, 3.4rem)", fontWeight: 800,
                     letterSpacing: "-0.03em", lineHeight: 1.1,
                     background: "linear-gradient(135deg, #f1f5f9 0%, #a78bfa 50%, #22d3ee 100%)",
                     WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent",
                     backgroundClip: "text", marginBottom: 18,
-                }}>MMI <span style={{ fontSize: "clamp(1.2rem, 2.5vw, 2rem)", fontWeight: 600, color: "var(--text-secondary)", WebkitTextFillColor: "var(--text-secondary)" }}><br />Multi-Model Interface</span></h1>
+                }}>MMI <span style={{ fontSize: "clamp(1.1rem, 2vw, 1.5rem)", fontWeight: 600, color: "var(--text-secondary)", WebkitTextFillColor: "var(--text-secondary)" }}><br />Multi-Model Interface</span></h1>
 
                 {/* Subtext */}
                 <p style={{
