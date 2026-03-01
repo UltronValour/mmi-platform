@@ -10,8 +10,8 @@ Built with a **React + Vite** frontend and a **Python Flask** backend, MMI makes
 
 | Service | URL |
 |---|---|
-| 🖥️ Frontend | *(Add Vercel URL here after deploying)* |
-| ⚙️ Backend API | *(Add Render URL here after deploying)* |
+| 🖥️ Frontend | [https://mmi-platform.vercel.app](https://mmi-platform.vercel.app) |
+| ⚙️ Backend API | [https://mmi-platform.onrender.com](https://mmi-platform.onrender.com) |
 
 ---
 
